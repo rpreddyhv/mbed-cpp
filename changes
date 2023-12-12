@@ -3,3 +3,5 @@ This file contains step-by-step working changes for mbed-cpp project c to cpp tr
 FW changes building with AVR gcc 13.2.0
 https://godbolt.org/z/vq15aKqbT
 
+Working CMake Project
+https://godbolt.org/z/fG8T691Ed
