@@ -8,3 +8,6 @@ https://godbolt.org/z/fG8T691Ed
 
 CMake with led.hpp and button.hpp apis
 https://godbolt.org/z/fzGPhcPz3
+
+CMake with code in separate files
+https://godbolt.org/z/qjcE1xWsq
