@@ -1,7 +1,9 @@
 Circuit:
 
        ________________________________
-vcc --| VCC                        PB2 |---- LED
+vcc --| VCC                        PB4 |---- RED_LED
+      |                            PB3 |---- GREEN_LED
+      |                            PB2 |---- BLUE_LED
       |                            PB1 |---- BUZZER
       |           ATTINY24A        PA3 |---- MOTOR
       |                            PA2 |---- BUTTON
