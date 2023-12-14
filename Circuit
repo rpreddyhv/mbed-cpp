@@ -11,4 +11,6 @@ vcc --| VCC                        PB2 |---- LED
  \ /
 
 
-Datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/8183_105.pdf
+Controller Specification: https://ww1.microchip.com/downloads/en/DeviceDoc/8183_105.pdf
+Controller Datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny24A-44A-84A-DataSheet-DS40002269A.pdf
+
