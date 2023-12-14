@@ -11,3 +11,6 @@ https://godbolt.org/z/fzGPhcPz3
 
 CMake with code in separate files
 https://godbolt.org/z/qjcE1xWsq
+
+Working CPP code without OOP, 594 bytes
+https://godbolt.org/z/EKfdW89aK
